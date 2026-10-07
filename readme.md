@@ -59,3 +59,6 @@ No installation or server required. All features work offline.
 Live Demo: https://to-do-app-liard-six-38.vercel.app/
 ---
 Enjoy staying organized!
+
+
+Note: The given todo app is not yet optimized for mobile
